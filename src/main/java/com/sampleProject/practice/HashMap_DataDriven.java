@@ -29,7 +29,7 @@ public class HashMap_DataDriven {
 		mp.put("User2","admin:Admin123");
 		mp.put("User3","admin:admin123");
 		mp.put("User4","Admin:Admin123");
-		mp.put("User5","admin123:Admin");
+		mp.put("User5","dmin123:Admin");
 		mp.put("User6","Admin123:admin");
 		mp.put("User7","Admin123:Admin123");
 		mp.put("User8","admin123:admin123");
